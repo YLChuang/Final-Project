@@ -1,2 +1,1 @@
-# ISSUE_TEMPLATE
 IBM project
